@@ -23,7 +23,7 @@ def countdown():
     elif t == 0:
         print("end")
         label1.config(text="BREAK TIME")
-        return playsound('C:/Users/Aaron/PycharmProjects/100DaysPython/tng_chirp_clean.mp3')
+        return playsound('tng_chirp_clean.mp3')
 
 def clock():
     date = time.strftime("%x")
