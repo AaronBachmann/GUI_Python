@@ -29,6 +29,8 @@ I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audi
 ![image](https://user-images.githubusercontent.com/68202736/88468927-82ee5200-ce9f-11ea-8233-55579b098c1a.png)
 
 
+![image](https://user-images.githubusercontent.com/68202736/88468952-ebd5ca00-ce9f-11ea-92dc-49d464cbf416.png)
+
 
 
 
