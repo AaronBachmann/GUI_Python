@@ -30,7 +30,7 @@ I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audi
 
 
 
-![image](https://user-images.githubusercontent.com/68202736/88468917-6520ed00-ce9f-11ea-9a78-013c500f3233.png)
+
 
 
 
