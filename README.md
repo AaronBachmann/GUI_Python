@@ -1,5 +1,5 @@
 # GUI_Python
-Python projects that are used to explore GUI programming.
+Python projects that are used to explore GUI programming using Tkinter.
 
 
 ## Digital Clock with Timer in Python
