@@ -3,9 +3,8 @@ Python projects that are used to explore GUI programming using Tkinter.
 
 
 ## Digital Clock with Timer in Python
-
-You will need to import Tkinter  
-This is a simple digital clock with a calendar and built in timer. It was built in Python 3. 
+This is a simple digital clock with a calendar and built in timer. It was built in Python 3.  
+You will need to import Tkinter.     
 You will need to install playsound or similar module. (**pip install playsound**)  
 I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audio/   
 
