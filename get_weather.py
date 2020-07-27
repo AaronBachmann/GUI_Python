@@ -47,7 +47,7 @@ def get_weather(city):
 
 def open_image(icon):
     size = int(lower_frame.winfo_height()*0.25)
-    img = ImageTk.PhotoImage(Image.open('C:/Users/Aaron/PycharmProjects/100DaysPython/'+icon+'.png').resize((size, size)))
+    img = ImageTk.PhotoImage(Image.open('./img/'+icon+'.png').resize((size, size)))
     weather_icon.delete("all")
     weather_icon.create_image(0,0, anchor='nw', image=img)
     weather_icon.image = img
