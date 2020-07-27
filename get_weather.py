@@ -11,7 +11,7 @@ HEIGHT = 500
 WIDTH = 600
 
 #api weather 5 day: api.openweathermap.org/data/2.5/forecast?q={city name}&appid={your api key}
-#api key: d661022f234f12894022d21699605f47
+#api key: {your api key}
 
 
 def format_response(weather):
@@ -33,7 +33,7 @@ def format_response(weather):
     return weather_output
 
 def get_weather(city):
-    weather_key = 'd661022f234f12894022d21699605f47'
+    weather_key = '{your api key}'
     url = 'http://api.openweathermap.org/data/2.5/weather'
     params = {'APPID': weather_key, 'q': city, 'units': 'imperial'}
     response = requests.get(url, params=params)
