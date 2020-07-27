@@ -3,9 +3,9 @@ Python projects that are used to explore GUI programming using Tkinter.
 
 
 ## Digital Clock with Timer in Python
-This is a simple digital clock with a calendar and built in timer. It was built in Python 3.  
-You will need to import Tkinter.     
-You will need to install playsound or similar module. (**pip install playsound**)  
+A simple digital clock with a built in timer. It was built in Python 3.  
+import tkinter.     
+install playsound or similar module. {**pip install playsound**}  
 I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audio/   
 
 1. Run the program.
@@ -27,13 +27,23 @@ I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audi
 
 
 ## Simple Calculator
-A simple calculator built in Python using Tkinter.  
+A simple calculator built in Python 3 using Tkinter.
+import tkinter  
+Performs addition, subtraction, multiplication,  and division.  
 Tutorial: https://www.youtube.com/watch?v=F5PfbC5ld-Q  
 
 ![image](https://user-images.githubusercontent.com/68202736/88468927-82ee5200-ce9f-11ea-8233-55579b098c1a.png)
 
 
-## Weather App
+## Weather App  
+A weather app built in Python 3 using Tkinter and OpenWeatherMap.org API parameters.  
+import tkinter  
+import requests  
+install pillow {**pip install pillow**}  
+from PIL import Image, Image Tk
+You will need to register for a free [OpenWeatherMap.org](https://openweathermap.org/api) account to obtain a unique API key. 
+Tutorial: https://www.youtube.com/watch?v=D8-snVfekto
+
 ![image](https://user-images.githubusercontent.com/68202736/88468952-ebd5ca00-ce9f-11ea-92dc-49d464cbf416.png)
 
 
