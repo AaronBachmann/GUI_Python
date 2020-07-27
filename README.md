@@ -29,6 +29,7 @@ I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audi
 ## Simple Calculator
 A simple calculator built in Python using Tkinter.  
 Tutorial: https://www.youtube.com/watch?v=F5PfbC5ld-Q  
+
 ![image](https://user-images.githubusercontent.com/68202736/88468927-82ee5200-ce9f-11ea-8233-55579b098c1a.png)
 
 
