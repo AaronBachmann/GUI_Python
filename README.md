@@ -28,7 +28,7 @@ I used a Star Trek TNG sound effect for the timer: https://www.trekcore.com/audi
 
 ## Simple Calculator
 A simple calculator built in Python 3 using Tkinter.  
-Performs addition, subtraction, multiplication,  and division. 
+Performs addition, subtraction, multiplication, and division.   
 import tkinter    
  
 Tutorial: https://www.youtube.com/watch?v=F5PfbC5ld-Q  
